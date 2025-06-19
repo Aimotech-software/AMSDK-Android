@@ -60,4 +60,4 @@ Yes, the SDKs obtained from GitHub and CocoaPods are free. However, you cannot d
 
 ## License
 
-[See LICENSE](https://github.com/Aimotech-software/AMSDK-ios/blob/master/LICENSE) for details.
+[See LICENSE](https://github.com/Aimotech-software/AMSDK-Android/blob/master/LICENSE) for details.
