@@ -29,7 +29,7 @@ AIMO SDK, developed by Aimo Inc, is a software development kit for printers. It 
 
 | MinSdk                                  | TargetSdk
 | --------------------------------------- | --------------------- 
-| 21                                          33  
+| 21                                      |   33  
 
 
 ### Dependency
