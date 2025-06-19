@@ -17,17 +17,19 @@ AIMO SDK, developed by Aimo Inc, is a software development kit for printers. It 
 ## Features
 
 - [x] Scan Device with BLE
-- [x] Connect Device with BLE 
+- [x] Connect Device with  classic
 - [x] Configure the Wi-Fi network
 - [x] Connect Device with  WiFI
+- [x] Connect Device with  USB Typec
+- [x] Connect Device with  Port
 - [x] Print Images
 - [x] Upgrade OTA 
 
 ## Requirements
 
-| Minsdk                                             | TargetSdk             | Installation                                                                                                         
-| -------------------------------------------------- | --------------------- | 
-| 21                                                 | 33                    | gradle 
+| MinSdk                                  | TargetSdk
+| --------------------------------------- | --------------------- 
+| 21                                          33  
 
 
 ### Dependency
@@ -36,7 +38,7 @@ We use OpenCV to crop or scale images. Currently, the version of OpenCV we depen
 
 | AIMO SDK Version                                     | OpenCV Version 
 | ---------------------------------------------------- | --------------------- 
-| 1.0.x                                                | 3.4.6         
+| 1.0.x                                                | 4.8.0         
 
 
 ### List of Mobile SDK Supported Models
@@ -49,13 +51,7 @@ We use OpenCV to crop or scale images. Currently, the version of OpenCV we depen
 
 ## Installation
 
-### CocoaPods
-
-[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate AIMOSDK into your Xcode project using CocoaPods, specify it in your `Podfile`:
-
-```ruby
-pod 'AIMOSDK-iOS'
-```
+### Gradle
 
 ## FAQ
 Our answers to frequently asked questions about mobile SDKs so far are shown below. Before you email us your questions, please check the following.
